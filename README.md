@@ -13,7 +13,6 @@
 
    <h2>Tools and Technologies</h2>
     <ul>
-        <li><strong>Version Control:</strong> GitHub </li>
         <li><strong>Content Management:</strong> Confluence, SharePoint</li>
         <li><strong>Technical Knowledge:</strong> Familiar with programming languages and technologies like HTML, CSS, and JavaScript</li>
     </ul>
