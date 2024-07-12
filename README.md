@@ -13,8 +13,8 @@
 
    <h2>Tools and Technologies</h2>
     <ul>
-        <li><strong>Content Management:</strong> Confluence, SharePoint</li>
-        <li><strong>Technical Knowledge:</strong> Familiar with programming languages and technologies like HTML, CSS, and JavaScript</li>
+        <li><strong>Content Management:</strong> Confluence, SharePoint, Clickup and Trello.</li>
+        <li><strong>Technical Knowledge:</strong> Familiar with programming languages and technologies like HTML, CSS, and JavaScript.</li>
     </ul>
     
   I'm always eager to take on new challenges and collaborate with innovative teams to create outstanding documentation.</p>
