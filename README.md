@@ -20,6 +20,6 @@
   I'm always eager to take on new challenges and collaborate with innovative teams to create outstanding documentation.</p>
 
    <h2>Let's Connect</h2>
-    <p>Feel free to explore my repositories, check out my latest projects, or connect with me on <a href="(https://www.linkedin.com/in/savannah-wynn/)" target="_blank">LinkedIn</a>. I'm open to new opportunities and collaborations, so don't hesitate to reach out!</p>
+    <p>Feel free to explore my repositories, check out my <a href="https://github.com/savannahmwynn/savannahmwynn.github.io?tab=readme-ov-file#technical-writing-samples">latest projects</a>, or connect with me on <a href="https://www.linkedin.com/in/savannah-wynn/">Linkedin</a>. I'm open to new opportunities and collaborations, so don't hesitate to reach out!</p>
 </body>
 </html>
