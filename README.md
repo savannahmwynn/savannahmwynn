@@ -1,6 +1,6 @@
 
   <h1>About Me</h1>
-    <p>Hi there! I'm <strong>Savannah</strong>, a passionate and detail-oriented person with extensive experience in creating clear, concise, and user-friendly documentation. I have a knack for transforming complex technical concepts into easily understandable content, ensuring that users have a seamless experience with the products and technologies they use.</p>
+   <p> Hi there! I'm Savannah, a detail-oriented professional with a strong background in technical support, project management, and technical documentation. I excel at troubleshooting complex issues, translating technical information into clear and accessible content, and managing projects from concept to completion. I’m passionate about finding practical solutions, improving processes, and helping both users and teams navigate technology with confidence.</p>
 
    
   <h2>My Expertise</h2>
