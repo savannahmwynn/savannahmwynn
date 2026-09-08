@@ -1,6 +1,6 @@
 
   <h1>About Me</h1>
-    <p>Hi there! I'm <strong>Savannah</strong>, a passionate and detail-oriented technical writer with extensive experience in creating clear, concise, and user-friendly documentation. I have a knack for transforming complex technical concepts into easily understandable content, ensuring that users have a seamless experience with the products and technologies they use.</p>
+    <p>Hi there! I'm <strong>Savannah</strong>, a passionate and detail-oriented person with extensive experience in creating clear, concise, and user-friendly documentation. I have a knack for transforming complex technical concepts into easily understandable content, ensuring that users have a seamless experience with the products and technologies they use.</p>
 
    
   <h2>My Expertise</h2>
